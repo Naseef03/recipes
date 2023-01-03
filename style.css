@@ -20,3 +20,22 @@ header {
   margin: 0;
   font-size: 32px;
 }
+
+/*  */
+
+main {
+  padding-top: 30px;
+}
+
+figure {
+  background-color: white;
+  padding: 10px;
+  border-radius: 25px;
+  text-align: center;
+  color: rgb(228, 101, 59);
+}
+
+img {
+  width: 100%;
+  border-radius: 25px;
+}
